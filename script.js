@@ -1,4 +1,5 @@
 "use strict";
+let myName = 'Nazar';
 
 let numberOfFilms;
 function start() {
@@ -68,3 +69,4 @@ function writeYourGenres() {
 }
 
 writeYourGenres();
+
